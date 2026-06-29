@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-accounting-software-448
+  runtime: static
+  staticPublishPath: public
